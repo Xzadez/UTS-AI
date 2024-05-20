@@ -5,7 +5,7 @@ class Graph:
         self.vertices = {}
     
     def add_vertex(self, name, edges):
-        self.vertices[name] = edges
+        self.vertices[name] = edges 
     
     def dijkstra(self, start, goal):
         queue = [(0, start)]
