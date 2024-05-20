@@ -1,3 +1,4 @@
 Hasil Output
 
-![image](https://github.com/Xzadez/UTS-AI/assets/55611402/e7bd8dbb-6825-45fa-87ae-cb3e6c3647a5)
+![image](https://github.com/Xzadez/UTS-AI/assets/55611402/df653128-9bcb-4066-a39b-89a16c590503)
+
